@@ -110,3 +110,5 @@ Suppose the word is "Pineapple"
    - Output:
      - GAME STOPPED
      - The word was "pineapple"
+  
+☺☻
